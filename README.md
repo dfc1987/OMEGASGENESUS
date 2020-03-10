@@ -1,0 +1,2 @@
+# OMEGASGENESUS
+&lt;oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd"> &lt;dc:title>BRX - DFC&lt;/dc:title> &lt;dc:date>1987-1992&lt;/dc:date> &lt;dc:identifier>http://atom.archives.unesco.org/brx-dfc&lt;/dc:identifier> &lt;dc:identifier>60.1&lt;/dc:identifier> &lt;/oai_dc:dc>
